@@ -1,0 +1,96 @@
+.root {
+  position: absolute;
+  left: -3px;
+  top: 0;
+  width: 1484px;
+  height: 883px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+._7a3681a71d048b315d7d04aaed1eac {
+  position: absolute;
+  left: 0.2022%;
+  right: 2.7628%;
+  top: 0;
+  bottom: 5.889%;
+  background-image:/* webpackIgnore: true */ url('assets/_7a3681a71d048b315d7d04aaed1eac.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle2 {
+  opacity: 0.5;
+  position: absolute;
+  left: 0.2022%;
+  right: 0;
+  top: 0;
+  bottom: 5.889%;
+  background-image: radial-gradient(
+    ellipse 740.4999999999999px 415.5px at 740.5px 415.49999999999994px,
+    #0000 0%,
+    #000f 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.rectangle3 {
+  position: absolute;
+  left: 0;
+  right: 1.0782%;
+  top: 30.9173%;
+  bottom: 0;
+  background-image: radial-gradient(
+    ellipse 951.7934974003736px 1869.531382353382px at 734.0000444579456px 518.4999912579959px,
+    #1e1e1eff 0%,
+    #1e1e1ed7 48%,
+    #1e1e1e00 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.unnamed {
+  position: absolute;
+  left: 2.965%;
+  right: 47.372%;
+  top: 33.4088%;
+  bottom: 55.4926%;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 48px;
+  line-height: 102%;
+  font-weight: 500;
+  font-family: Gilroy, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 48px;
+  line-height: 102%;
+  font-weight: 500;
+  font-family: Gilroy, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.unnamed2 {
+  opacity: 0.5;
+  color: #fff;
+  font-size: 199.7249px;
+  line-height: 102%;
+  font-weight: 900;
+  font-family: Gilroy, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 2.965%;
+  right: 59.6361%;
+  top: 38.9581%;
+  bottom: 37.9388%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

@@ -1,0 +1,123 @@
+.root {
+  position: absolute;
+  left: -3px;
+  top: 955px;
+  width: 1418px;
+  height: 707px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow-x: auto;
+}
+.turcsKirghizes1 {
+  position: absolute;
+  left: 0.2116%;
+  right: 36.3188%;
+  top: 12.1641%;
+  bottom: 3.1108%;
+  background-image:/* webpackIgnore: true */ url('assets/turcsKirghizes1.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle4 {
+  position: absolute;
+  left: 0;
+  right: 29.8307%;
+  top: 9.0523%;
+  bottom: 0;
+  background-image: radial-gradient(
+    ellipse 946.7304586537175px 435.9408950454444px at 10.500040739373922px 436.99997209006847px,
+    #1e1e1e00 0%,
+    #1e1e1eff 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.unnamed {
+  color: #fff;
+  font-size: 76.3587px;
+  line-height: 102%;
+  font-weight: 900;
+  font-family: Gilroy, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3.103%;
+  right: 43.7941%;
+  top: 0;
+  bottom: 83.0269%;
+  flex-direction: column;
+}
+.unnamed2 {
+  color: #fff;
+  font-size: 26px;
+  line-height: 102%;
+  font-weight: 500;
+  font-family: Gilroy, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.9873%;
+  right: 1.481%;
+  top: 40.1697%;
+  bottom: 34.9364%;
+  flex-direction: column;
+}
+.unnamed3 {
+  color: #fff;
+  font-size: 26px;
+  line-height: 102%;
+  font-weight: 900;
+  font-family: Gilroy, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.9873%;
+  right: 26.3047%;
+  top: 30.4102%;
+  bottom: 65.7709%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector1 {
+  position: absolute;
+  left: 94.9929%;
+  right: 3.244%;
+  top: 73.1259%;
+  bottom: 26.8741%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.unnamed4 {
+  color: #fff;
+  font-size: 26px;
+  line-height: 102%;
+  font-weight: 500;
+  font-family: Gilroy, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.9873%;
+  right: 1.481%;
+  top: 71.0042%;
+  bottom: 24.7525%;
+  flex-direction: column;
+}
+.vector2 {
+  position: absolute;
+  left: 51.0931%;
+  right: 5.4654%;
+  top: 75.5304%;
+  bottom: 24.4696%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
